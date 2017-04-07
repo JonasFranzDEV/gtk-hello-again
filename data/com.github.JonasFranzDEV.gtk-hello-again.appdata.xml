@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2017 Jonas Franz <info@jonasfranz.software>-->
+<component type="Desktop">
+  <id>com.github.JonasFranzDEV.git-hello-again.desktop</id>
+  <name>Your App's Name</name>
+  <summary>A catchy Tagline</summary>
+  <description>
+    <p>A quick summary ...</p>
+  </description>
+
+</component>
